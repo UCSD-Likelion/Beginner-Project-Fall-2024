@@ -1,2 +1,2 @@
 # Beginner-Project-Fall-2024
-This is repository for Beginner Project Fall 2024
+👋🏻 Hello, This is the Fall 2024 Beginner Project Repository
